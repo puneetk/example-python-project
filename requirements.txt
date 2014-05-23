@@ -1,0 +1,5 @@
+# Example comment: comments can start with # or --
+
+PyYAML==3.10
+requests
+wheel
